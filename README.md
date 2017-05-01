@@ -3,6 +3,9 @@
 ------
   
   **Simon**想让我帮忙做一个信息录入平台的前端，我简单地写了一个登陆界面和后台管理界面。
+  
+  **Simon** wants me to help him with the information system. I worked for the front-end part and made login and background management interface.
+  
   病例等信息需要更好地管理，因此建立了更便捷更高效的信息录入平台记录病例，整理疾病、知识，并将其中承载的价值传播和分享给他人。你可以使用该信息录入平台：
   > * 记录疾病
   > * 添加删除编辑疾病库
